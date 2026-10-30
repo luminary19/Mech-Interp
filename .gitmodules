@@ -1,0 +1,3 @@
+[submodule "neuron-explorer"]
+	path = neuron-explorer
+	url = https://github.com/luminary19/neuron-explorer.git

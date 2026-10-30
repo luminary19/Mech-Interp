@@ -1,0 +1,5 @@
+# Child project directories are independent repositories, registered as submodules.
+# Use `git submodule add --force <fork-url> <name>` to register a new project.
+/*/
+.env*
+*.log
